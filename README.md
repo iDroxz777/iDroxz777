@@ -18,10 +18,10 @@ Agora estou fazendo o **CS50x** de Harvard (C, algoritmos, Python e SQL) pra for
 
 ### Ferramentas que uso
 
-**Front-end:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML e CSS
-**Animação:** GSAP, Lenis, Motion
-**Back-end e deploy:** Node.js, Express, Firebase, Vercel, Cloudflare
-**Estudando:** C e Python (CS50x), Java
+- **Front-end:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML e CSS
+- **Animação:** GSAP, Lenis, Motion
+- **Back-end e deploy:** Node.js, Express, Firebase, Vercel, Cloudflare
+- **Estudando:** C e Python (CS50x), Java
 
 ---
 
